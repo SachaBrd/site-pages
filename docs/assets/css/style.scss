@@ -10,4 +10,6 @@
 
 .page-header {
     background-image: url(../../profile-default-bg.jpeg);
+    background-size: contain;
+    min-height: 20vw;
 }
